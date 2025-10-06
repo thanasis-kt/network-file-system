@@ -1,4 +1,4 @@
-# network-file-sstem
+# Network File System
 
 This repo is a network file system program implemented as a project
 for a Systems Programming course in my university. The pdf description of the 
@@ -110,4 +110,4 @@ This project was built using git controll, but it was in a private repository
 (in github classroom) and i couldn't publish it with it's previous git history.
 So i republish it here as a public repository
 
-Every directory should be given in the form <source_dir>@<hostname>:<port>
+Every directory should be given in the form SOURCE_DIR@HOSTNAME:PORT
